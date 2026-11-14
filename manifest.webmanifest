@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "OM-D Moment — Olympus OM-D E-M10 Mark IV Studio",
+  "short_name": "OM-D Moment",
+  "description": "Ruhiger, interaktiver Fotokurs und Praxis-Studio für die Olympus OM-D E-M10 Mark IV (Modell IM021) — ideal beim Umstieg von einer Spiegelreflex.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#11141a",
+  "theme_color": "#11141a",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
